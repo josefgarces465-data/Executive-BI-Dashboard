@@ -99,11 +99,6 @@ The analysis revealed strong growth in both sales volume and customer acquisitio
 
 The organization demonstrated significant commercial expansion and increasing market penetration.
 
-### Example Visualization
-
-![Commercial Findings](images/commercial-findings.png)
-
----
 
 ## Logistics Performance
 
@@ -111,11 +106,6 @@ Although sales increased considerably, logistics performance indicators showed a
 
 Results suggest that operational capacity has not expanded at the same pace as commercial growth, impacting service levels and customer experience.
 
-### Example Visualization
-
-![Logistics Findings](images/logistics-findings.png)
-
----
 
 ## Accounts Receivable Stability
 
@@ -123,11 +113,6 @@ Accounts receivable indicators remained stable throughout the analyzed period an
 
 This suggests healthy financial management practices and a sustainable cash flow position.
 
-### Example Visualization
-
-![Accounts Receivable Findings](images/ar-findings.png)
-
----
 
 # Strategic Recommendations
 
@@ -155,12 +140,7 @@ Based on the findings, the following recommendations were identified:
 # Interactive Dashboard
 
 You can explore the complete interactive dashboard here:
-
-🔗 **Power BI Service Link**
-
-PASTE_YOUR_POWER_BI_LINK_HERE
-
----
+https://app.powerbi.com/view?r=eyJrIjoiZjhhMGQ2N2ItZGU4My00NmExLWFmYzItMWQzZWI2ZDQxMmFmIiwidCI6IjMyYzY3YTRlLTIzZjMtNDFhZC1iNDYzLWE4MDdiZDFmMmM5YiIsImMiOjR9
 
 # Disclaimer
 
