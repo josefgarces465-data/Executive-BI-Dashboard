@@ -54,6 +54,22 @@ The project included:
 * Cross-functional business performance monitoring
 
 ---
+# Skills Demonstrated
+
+* Business Intelligence
+* Data Analytics
+* SQL
+* Power BI
+* Power Query
+* DAX
+* Data Modeling
+* ETL Processes
+* KPI Development
+* Dashboard Design
+* Executive Reporting
+* Data Visualization
+* Business Analysis
+---
 
 # Data Model
 
@@ -140,7 +156,11 @@ Based on the findings, the following recommendations were identified:
 # Interactive Dashboard
 
 You can explore the complete interactive dashboard here:
-https://app.powerbi.com/view?r=eyJrIjoiZjhhMGQ2N2ItZGU4My00NmExLWFmYzItMWQzZWI2ZDQxMmFmIiwidCI6IjMyYzY3YTRlLTIzZjMtNDFhZC1iNDYzLWE4MDdiZDFmMmM5YiIsImMiOjR9
+
+[View Power BI Dashboard]([PEGA_AQUI_TU_LINK](https://app.powerbi.com/view?r=eyJrIjoiZjhhMGQ2N2ItZGU4My00NmExLWFmYzItMWQzZWI2ZDQxMmFmIiwidCI6IjMyYzY3YTRlLTIzZjMtNDFhZC1iNDYzLWE4MDdiZDFmMmM5YiIsImMiOjR9))
+
+---
+
 
 # Disclaimer
 
