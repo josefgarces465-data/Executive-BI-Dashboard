@@ -157,8 +157,7 @@ Based on the findings, the following recommendations were identified:
 
 You can explore the complete interactive dashboard here:
 
-[View Power BI Dashboard]([PEGA_AQUI_TU_LINK](https://app.powerbi.com/view?r=eyJrIjoiZjhhMGQ2N2ItZGU4My00NmExLWFmYzItMWQzZWI2ZDQxMmFmIiwidCI6IjMyYzY3YTRlLTIzZjMtNDFhZC1iNDYzLWE4MDdiZDFmMmM5YiIsImMiOjR9))
-
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjhhMGQ2N2ItZGU4My00NmExLWFmYzItMWQzZWI2ZDQxMmFmIiwidCI6IjMyYzY3YTRlLTIzZjMtNDFhZC1iNDYzLWE4MDdiZDFmMmM5YiIsImMiOjR9)
 ---
 
 
